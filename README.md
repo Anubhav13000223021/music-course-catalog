@@ -1,66 +1,123 @@
-<<<<<<< HEAD
-# Music Course Catalog 🎶
+# 🎶 Music Course Catalog
 
-## Overview
-This repository documents a catalog of 10 music courses designed for learners of all levels.  
-The catalog covers instruments, vocals, production, and music history, with direct enrollment links.
+## 🚀 Overview
 
-## Courses Offered
-- 🎸 Guitar Fundamentals  
-- 🎹 Piano for Beginners  
-- 🥁 Drumming Mastery  
-- 🎶 Blues Guitar Techniques  
-- 🎤 Advanced Vocal Techniques  
-- ✍️ Songwriting Essentials  
-- 🎷 Jazz Improvisation  
-- 🎧 Music Production Fundamentals  
-- 🎛️ Electronic Music Production  
-- 🎼 Classical Music History  
+The **Music Course Catalog** is a modern web application built using **Next.js** that showcases a curated collection of music courses for learners of all levels.
 
-## How to Enroll
-Each course includes a **“Try now → Sign up”** option on the platform.  
-Simply visit the site, choose your course, and start learning immediately.
+It provides an intuitive interface for exploring courses across instruments, vocals, production, and music theory.
 
-## Purpose
-This repository serves as a structured overview of the course catalog.  
-It provides clarity for learners and acts as a reference point for future updates or contributions.
+---
 
+## ✨ Features
 
-=======
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+* 🎯 Browse 10+ structured music courses
+* 🎨 Clean and responsive UI
+* ⚡ Fast performance with Next.js
+* 📂 Organized course data management
+* 🔗 Easy navigation across pages (Home, Courses, Contact)
 
-## Getting Started
+---
 
-First, run the development server:
+## 🎼 Courses Included
+
+* 🎸 Guitar Fundamentals
+* 🎹 Piano for Beginners
+* 🥁 Drumming Mastery
+* 🎶 Blues Guitar Techniques
+* 🎤 Advanced Vocal Techniques
+* ✍️ Songwriting Essentials
+* 🎷 Jazz Improvisation
+* 🎧 Music Production Fundamentals
+* 🎛️ Electronic Music Production
+* 🎼 Classical Music History
+
+---
+
+## 🛠️ Tech Stack
+
+* **Frontend:** Next.js, React
+* **Styling:** CSS / Tailwind (if used)
+* **Language:** TypeScript / JavaScript
+
+---
+
+## 📦 Installation & Setup
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/Anubhav13000223021/music-course-catalog.git
+cd music-course-catalog
+```
+
+### 2. Install dependencies
+
+```bash
+npm install
+```
+
+### 3. Run the development server
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### 4. Open in browser
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```
+http://localhost:3000
+```
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## 🌐 Deployment
 
-To learn more about Next.js, take a look at the following resources:
+This project can be easily deployed using platforms like **Vercel**.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 📁 Project Structure
 
-## Deploy on Vercel
+```
+music-course-catalog/
+│── public/
+│── src/
+│   ├── app/
+│   ├── components/
+│   ├── data/
+│── package.json
+│── next.config.ts
+```
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
->>>>>>> afce718 (Initial commit from Create Next App)
+## 🎯 Purpose
+
+This project demonstrates:
+
+* Frontend development skills
+* Component-based architecture
+* Real-world project structuring
+
+It is ideal for showcasing in portfolios and internship applications.
+
+---
+
+## 📌 Future Improvements
+
+* 🔐 User authentication
+* 📊 Course progress tracking
+* 💳 Payment integration
+* 🌍 API-based dynamic content
+
+---
+
+## 👨‍💻 Author
+
+**Anubhav Kumar**
+
+---
+
+## ⭐ Support
+
+If you like this project, consider giving it a ⭐ on GitHub!
